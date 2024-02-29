@@ -10,7 +10,7 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License"
 ]
 dependencies = [
-    "datasette>=1.0a10",
+    "datasette>=1.0a12",
     "datasette-edit-schema",
     "datasette-write-ui",
     "datasette-configure-fts",
