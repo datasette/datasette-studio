@@ -17,7 +17,7 @@ dependencies = [
     "datasette-write",
     "datasette-upload-csvs",
     "datasette-enrichments",
-    "datasette-enrichments-quickqs",
+    "datasette-enrichments-quickjs",
     "datasette-enrichments-re2",
     "datasette-enrichments-jinja",
     "datasette-copyable",
