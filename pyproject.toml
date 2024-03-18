@@ -1,6 +1,6 @@
 [project]
 name = "datasette-studio"
-version = "0.1a1"
+version = "0.1a2"
 description = "Datasette pre-configured with useful plugins"
 readme = "README.md"
 authors = [{name = "Simon Willison"}]
