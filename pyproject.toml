@@ -21,8 +21,8 @@ dependencies = [
     "datasette-enrichments-re2",
     "datasette-enrichments-jinja",
     "datasette-copyable",
-    "datsaette-export-database",
-    "datsaette-enrichments-gpt",
+    "datasette-export-database",
+    "datasette-enrichments-gpt",
 ]
 
 [project.urls]
