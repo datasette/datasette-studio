@@ -23,6 +23,7 @@ dependencies = [
     "datasette-copyable",
     "datasette-export-database",
     "datasette-enrichments-gpt",
+    "datasette-paste",
 ]
 
 [project.urls]
