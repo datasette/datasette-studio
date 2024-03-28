@@ -9,6 +9,8 @@ Datasette pre-configured with useful plugins.
 
 **Experimental alpha release**. This is an early experiment at the moment.
 
+[Try this out in GitHub Codespaces](https://github.com/codespaces/new?repo=datasette/studio)
+
 ## Installation
 
 This tool makes Datasette (currently the 1.0 alpha series) available as `datasette-studio` with a set of useful plugins pre-installed.
