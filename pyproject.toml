@@ -1,6 +1,6 @@
 [project]
 name = "datasette-studio"
-version = "0.1a3"
+version = "0.1a4"
 description = "Datasette pre-configured with useful plugins"
 readme = "README.md"
 authors = [{name = "Simon Willison"}]
@@ -24,6 +24,8 @@ dependencies = [
     "datasette-export-database",
     "datasette-enrichments-gpt",
     "datasette-import",
+    "datasette-extract",
+    "datasette-secrets",
 ]
 
 [project.urls]
